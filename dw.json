@@ -1,0 +1,8 @@
+{
+    "hostname": "your-sfcc-instance.demandware.net",
+    "client_id": "your_client_id",
+    "client_password": "your_client_password",
+    "site_id": "your_site_id",
+    "cartridge_path": "path/to/your/cartridge"
+  }
+  
