@@ -44,12 +44,12 @@ git push origin feature/your-feature-name
 ```
 8. Create a Pull Request: Go to the Pull Requests tab in the original repository and click "New Pull Request." Provide a clear description of your changes and submit the PR for review.
 
-Pull Request Process
+9. Pull Request Process
 Review: The project maintainers will review your pull request. They may request changes or provide feedback.
 
-Address Feedback: If changes are requested, make the necessary updates in your branch and push them. The pull request will automatically update.
+10. Address Feedback: If changes are requested, make the necessary updates in your branch and push them. The pull request will automatically update.
 
-Merge: Once approved, the maintainers will merge your pull request into the main codebase.
+11. Merge: Once approved, the maintainers will merge your pull request into the main codebase.
 
-Code of Conduct
+12. Code of Conduct
 By participating in this project, you agree to uphold our Code of Conduct, which outlines our expectations for behavior and the consequences for unacceptable behavior.
